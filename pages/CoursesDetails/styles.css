@@ -8,7 +8,7 @@
     cursor: pointer;
     transition: 0.4s;
 
-    height: 302px;
+    height: 340px;
 }
 
 .description {
@@ -205,13 +205,13 @@
 
     .course-card {
         width: 96%;
-        height: 324px;
+        /*height: 324px;*/
     }
 }
 
 @media all and  (min-width: 1025px) and (max-width: 1450px) {
     .course-card {
-        height: 340px;
+        /*height: 340px;*/
     }
 
 }
