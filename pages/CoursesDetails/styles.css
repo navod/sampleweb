@@ -215,10 +215,3 @@
     }
 
 }
-
-@media all and  (min-width: 1450px) and (max-width: 2560ppx) {
-    .course-card {
-        height: 340px;
-    }
-
-}
