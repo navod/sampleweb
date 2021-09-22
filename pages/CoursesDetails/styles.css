@@ -45,7 +45,7 @@
 
 .course-price {
     position: absolute;
-    top: 98px;
+    top: 125px;
     right: 30px;
     background-color: #f47925;
     padding: 7px 13px 1px 16px;
@@ -119,6 +119,7 @@
 
     .course-card {
         width: 92%;
+        height: 299px
     }
 
     .course-price {
@@ -138,7 +139,7 @@
 
     .course-card {
         width: 78%;
-
+        height: 298px;
     }
 
     .title {
@@ -170,6 +171,7 @@
     /*}*/
     .course-card {
         width: 67%;
+        height: 298px;
     }
 
     .title {
@@ -195,6 +197,7 @@
 
     .course-card {
         width: 96%;
+        height: 298px;
     }
 }
 
