@@ -209,9 +209,9 @@
     }
 }
 
-/*@media all and  (min-width: 1025px) and (max-width: 1440px) {*/
-/*    .course-card {*/
-/*        width: 84%;*/
-/*    }*/
+@media all and  (min-width: 1025px) and (max-width: 1440px) {
+    .course-card {
+        height: 335px;
+    }
 
-/*}*/
+}
